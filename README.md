@@ -19,3 +19,6 @@ The **footer** contains buttons that execute requests when clicked. If the query
 
 
 The web application also has an **adaptive layout** for different screen sizes.
+
+The full demo:
+![Demo Header](flutter_web_app_demo.gif)
